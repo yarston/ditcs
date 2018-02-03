@@ -1,6 +1,6 @@
 [
-["Eng-Rus", "", "https://", "shop", "en", "ru", 5],
-["Fr-Rus", "", "https://", "shop", "fr", "ru", 5],
-["De-Rus", "", "https://", "shop", "dn", "ru", 5],
-["Esp-Rus", "", "https://", "shop", "es", "ru", 5]
+["Eng-Rus", "", "en-ru.json", "shop", "en", "ru", 5],
+["Fr-Rus", "", "fr-ru.json", "shop", "fr", "ru", 5],
+["De-Rus", "", "de-ru.json", "shop", "dn", "ru", 5],
+["Esp-Rus", "", "es-ru.json", "shop", "es", "ru", 5]
 ]
