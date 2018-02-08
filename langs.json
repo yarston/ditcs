@@ -1,0 +1,17 @@
+{"app_ver":1,"langs":
+[{"name":"English","code":"en","icon":"en.png","ver":1,"items":200},
+{"name":"Deutsch","code":"de","icon":"de.png","ver":1,"items":200},
+{"name":"Française","code":"fr","icon":"fr.png","ver":1,"items":200},
+{"name":"Nederlandse","code":"nl","icon":"nl.png","ver":1,"items":200},
+{"name":"日本語","code":"ja","icon":"ja.png","ver":1,"items":200},
+{"name":"Italiano","code":"it","icon":"it.png","ver":1,"items":200},
+{"name":"بهاس ملايو","code":"ms","icon":"ms.png","ver":1,"items":200},
+{"name":"한국어","code":"ko","icon":"ko.png","ver":1,"items":200},
+{"name":"Русский","code":"ru","icon":"ru.png","ver":1,"items":200},
+{"name":"Portuguesa","code":"pt","icon":"pt.png","ver":1,"items":200},
+{"name":"Español","code":"es","icon":"es.png","ver":1,"items":200},
+{"name":"Türkçe","code":"tr","icon":"tr.png","ver":1,"items":200},
+{"name":"汉语","code":"zh","icon":"zh.png","ver":1,"items":200},
+{"name":"اللغة العربية","code":"ar","icon":"ar.png","ver":1,"items":200},
+{"name":"हिन्दुस्तानी","code":"hi","icon":"hi.png","ver":1,"items":200},
+{"name":"বাংলা","code":"bn","icon":"bn.png","ver":1,"items":200}]}
